@@ -1,0 +1,28 @@
+{
+"applicant sign up": "First name","Nancy"
+              "Second name","Karimi"
+              "Mobile number", 0726343215,
+              "fetch":"OTP"
+              "Then": 562488,
+              "Gurantor":"one eg next of keen who can help you repay the loan"
+              "what do you want to do":{"Get a loan":"Invest and earn up to 13% returns p.a"}
+              "If":("Get a loan"){"allow these permissions"}:["installed apps","sms","location"]
+
+              "Reason for borrowing":{"school fees","business","hospital bill "}
+              "verify your identity":"enter ID"
+              "Fetch":"selfie"
+              "then":"return full names per the ID"
+              "Income details":{"salaried","self employed","business"}
+              "monthly salary": 20000,
+              "fetch":"assess loan elligibility"
+              "then":{"elligible","not elligible"}
+
+              "Elligible":"enter amount",2000
+              "Not elligible":"give reasons",{"poor credit score","names do not match"}
+        
+
+
+
+
+
+}
